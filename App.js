@@ -44,7 +44,7 @@ const App = () => {
   // Returns the UI
   return (
       <div className="App">
-        <h1 className="app-title">Animal Index - Udemy React Course </h1>
+        <h1 className="app-title">A brand new feature for my app </h1>
         <h1 className="app-title">{ title } </h1>
 
         <SearchBox 
