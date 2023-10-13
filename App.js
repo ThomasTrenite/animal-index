@@ -44,6 +44,7 @@ const App = () => {
   // Returns the UI
   return (
       <div className="App">
+        <h1 className="app-title">New title for BIG feature! </h1>
         <h1 className="app-title">{ title } </h1>
 
         <SearchBox 
